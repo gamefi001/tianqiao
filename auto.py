@@ -1,6 +1,6 @@
 import requests
 import datetime
-# 最后修改于 2022-11-30 by:一介布衣
+# 最后修改于 2022-11-30 by:一介布衣 12-13
 def _time():
     _time=datetime.datetime.now().strftime('%Y-%m-%d')
     return _time
